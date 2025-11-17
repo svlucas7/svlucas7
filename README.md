@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Lucas Silva 👋</h1>
 
 <p align="center">
-  🎓 Engineering Student · 📈 Digital Marketer · 🧠 Future Full-Stack Developer
+  🎓 Engineering Student · 📈 E-commerce Professional · 🧠 Future Full-Stack Developer
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🧑‍🎓 Studying **Software Engineering** at PUC Minas  
-- 📊 I work with **performance marketing** (Meta Ads, Google Ads, RD Station)  
+- 📊 I work with **performance marketing and integrations** (Meta Ads, Google Ads, RD Station)  
 - 💻 Currently building a **school management SaaS** for public institutions (bidding, library, attendance)  
 - 🛠️ Passionate about bridging the gap between **code and business**  
 - 🚀 Focused on creating scalable solutions to real-world problems
